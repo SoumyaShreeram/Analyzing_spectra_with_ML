@@ -1,2 +1,2 @@
-# MLGravitationalLensing
-This repository contains the work done as part of the TPVI Master's project. The aim is to effectively use machine learning tools to study irregular, gravitationally lensed spectra using the SDSS data.
+# Classifying spectra using Machine Learning
+This repository contains the work done as part of the TPVI Master's project at EPFL. The ultimate aim is to use machine learning tools to study irregular, gravitationally lensed spectra using the data from the SDSS eBOSS survey. 
